@@ -65,6 +65,7 @@ Contributions are welcome! If you'd like to contribute to HashHawk, please fork 
 ### License
 This project is licensed under the MIT License.
 
-![Screenshot_2023-11-26_02-11-45](https://github.com/DwrldDev/HashHawk/assets/116701630/148d65fd-a516-4259-aa8c-ffa9da3fe9a8)
-![Screenshot_2023-11-26_02-24-50](https://github.com/DwrldDev/HashHawk/assets/116701630/a4244e1c-78d2-487e-80f3-18985275d3cc)
-![Screenshot_2023-11-26_02-21-40](https://github.com/DwrldDev/HashHawk/assets/116701630/3d612693-eb45-42a2-b3c3-bda369733a45)
+![Screenshot_2023-11-26_02-11-45](https://github.com/DwrldDev/HashHawk/assets/116701630/6abf0bfb-4c1d-45d9-86a4-cffa95ddceee)
+
+![Screenshot_2023-11-26_02-24-50](https://github.com/DwrldDev/HashHawk/assets/116701630/6f9f5ffe-36e8-4442-bc2b-53407f5adeea)
+![Screenshot_2023-11-26_02-21-40](https://github.com/DwrldDev/HashHawk/assets/116701630/7d03ab94-f57e-4b1c-9d98-57f74f53607b)
