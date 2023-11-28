@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.2
+httpx==0.25.0
+Requests==2.31.0
+termcolor==2.3.0
+tqdm==4.66.1
+termcolor
+phonenumbers
+pyzipper
+prefile
+dnsresolver
