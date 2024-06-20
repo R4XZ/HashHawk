@@ -759,7 +759,7 @@ def network_info_menu():
         print(colored("4. Analyze Packets", "blue"))
         print(colored("5. Back to Main Menu", "blue"))
 
-        network_choice = input("Enter your choice (1-3): ")
+        network_choice = input("Enter your choice (1-5): ")
 
         if network_choice == "1":
             ip_address = input("Enter an IP address: ")
