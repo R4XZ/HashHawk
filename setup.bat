@@ -9,6 +9,7 @@ pip install phonenumbers
 pip install pefile
 pip install dnspython
 pip install pyshark
+pip install pyzipper
 
 echo Installation complete.
 
