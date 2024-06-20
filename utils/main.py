@@ -65,11 +65,8 @@ def bruteforce_zip():
     # Initialize a flag to track whether the password was found
     password_found = False
 
-    # Create a tqdm progress bar
-    progress_bar = tqdm(passwords, desc="Cracking Progress", ascii=True)
-
     # Attempt to extract the ZIP file with each password
-    for password in progress_bar:
+    for password in passwords:
         try:
             with pyzipper.AESZipFile(zip_file_path) as zip_file:
                 zip_file.pwd = password.encode()
@@ -80,9 +77,6 @@ def bruteforce_zip():
                 break  # Stop if the correct password is found
         except Exception as e:
             pass  # Continue if extraction fails (wrong password)
-
-    # Close the progress bar
-    progress_bar.close()
 
     # If no password is found, display a message
     if not password_found:
