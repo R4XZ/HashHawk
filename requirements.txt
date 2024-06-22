@@ -8,3 +8,4 @@ phonenumbers
 pyzipper
 prefile
 dnsresolver
+pyshark
